@@ -8,8 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "ulid": "^2.3.0"
+    "ulid": "2.3.0",
+    "uuid": "9.0.0"
   }
 }
